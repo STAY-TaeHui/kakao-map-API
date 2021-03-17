@@ -1,0 +1,51 @@
+{
+    "people":[
+        {
+            "department":1,
+            "name":"김수연",
+            "address":"동작구"
+        },{
+            "department":1,
+            "name":"김영허",
+            "address":"동작구"
+        },{
+            "department":1,
+            "name":"박주현",
+            "address":"노원구"
+        },{
+            "department":1,
+            "name":"이승준",
+            "address":"수지구"
+        },{
+            "department":1,
+            "name":"현상진",
+            "address":"동작구"
+        },{
+            "department":3,
+            "name":"김대업",
+            "address":"강동구"
+        },{
+            "department":3,
+            "name":"김진아",
+            "address":"중원구"
+        },{
+            "department":3,
+            "name":"안승주",
+            "address":"동대문구"
+        },{
+            "department":3,
+            "name":"이동근",
+            "address":"동대문구"
+        },{
+            "department":3,
+            "name":"이보희",
+            "address":"강남구"
+        },{
+            "department":3,
+            "name":"한석희",
+            "address":"송파구"
+        }
+       
+     
+    ]
+}

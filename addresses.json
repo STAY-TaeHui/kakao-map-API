@@ -3,47 +3,47 @@
         {
             "department":1,
             "name":"김수연",
-            "address":"동작구"
+            "address":"동작구 장승배기로3길"
         },{
             "department":1,
             "name":"김영허",
-            "address":"동작구"
+            "address":"장승배기로24가길"
         },{
             "department":1,
             "name":"박주현",
-            "address":"노원구"
+            "address":"노원구 노원로"
         },{
             "department":1,
             "name":"이승준",
-            "address":"수지구"
+            "address":"수지구 성복2로"
         },{
             "department":1,
             "name":"현상진",
-            "address":"동작구"
+            "address":"평택시 비전2로"
         },{
             "department":3,
             "name":"김대업",
-            "address":"강동구"
+            "address":"강동구 구천면로17길"
         },{
             "department":3,
             "name":"김진아",
-            "address":"중원구"
+            "address":"중원구 자혜로8번길"
         },{
             "department":3,
             "name":"안승주",
-            "address":"동대문구"
+            "address":"동대문구 고산자로"
         },{
             "department":3,
             "name":"이동근",
-            "address":"동대문구"
+            "address":"동대문구 장한로27가길"
         },{
             "department":3,
             "name":"이보희",
-            "address":"강남구"
+            "address":"가평읍 오목내길"
         },{
             "department":3,
             "name":"한석희",
-            "address":"송파구"
+            "address":"송파구 백제고분로"
         }
        
      

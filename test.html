@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+	console.log("READY")
+
+  $(":button").click(function(){
+    let dept = $(this).attr("id");
+  	console.log("CLICK")
+    $.getJSON("demo_ajax_json.json", function(result){
+    	  	console.log("getJSON")
+      $.each(result, function(i, field){
+        $("div").append(field + " ");  	
+        console.log("EACH")
+        console.log(dept);
+      });
+        	console.log("AFTER getJSON")
+    });
+     	console.log("AFTER CLICK")
+  });
+});
+</script>
+</head>
+<body>
+
+<button id="1">Get JSON data</button>
+<button id="2">Get JSON data2</button>
+
+
+<div></div>
+
+</body>
+</html>

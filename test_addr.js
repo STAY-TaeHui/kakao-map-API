@@ -1,15 +1,3 @@
-// let addrs = [];
-// let departments = [];
-// let names = [];
-// let peoples = {};
-// $.getJSON("addresses.json", function (data) {
-//   // console.log(data);
-//   for (let i = 0; i < data.people.length; i++) {
-//     addrs.push(data.people[i].address);
-//     departments.push(data.people[i].department);
-//     names.push(data.people[i].name);
-//   }
-// });
 
 // console.log(students);
 $.getJSON("addresses.json", function (data) {

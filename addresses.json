@@ -1,6 +1,10 @@
 {
     "people":[
         {
+            "department":0,
+            "name":"비트캠프",
+            "address":"강남대로 459"
+        },{
             "department":1,
             "name":"김수연",
             "address":"동작구 장승배기로3길"
@@ -44,6 +48,74 @@
             "department":3,
             "name":"한석희",
             "address":"송파구 백제고분로"
+        },{
+            "department":2,
+            "name":"이가희",
+            "address":"관악구 남부순환로"
+        },{
+            "department":2,
+            "name":"김명환",
+            "address":"감일백제로"
+        },{
+            "department":2,
+            "name":"김현진",
+            "address":"송파구 송이로"
+        },{
+            "department":2,
+            "name":"김영훈",
+            "address":"송파구 올림픽로"
+        },{
+            "department":2,
+            "name":"서태희",
+            "address":"권선구 금곡로"
+        },{
+            "department":2,
+            "name":"이상엽",
+            "address":"덕양구 중앙로"
+        },{
+            "department":4,
+            "name":"백보성",
+            "address":"서초구 효령로"
+        },{
+            "department":4,
+            "name":"정아인",
+            "address":"기흥구 언동로"
+        },{
+            "department":4,
+            "name":"하준수",
+            "address":"김포시 김포대로"
+        },{
+            "department":4,
+            "name":"박선희",
+            "address":"영등포구 도신로"
+        },{
+            "department":4,
+            "name":"문형철",
+            "address":"수원시 봉영로"
+        },{
+            "department":5,
+            "name":"이광희",
+            "address":"관악구 신림로65길"
+        },{
+            "department":5,
+            "name":"이성훈",
+            "address":"동작구 사당로2길"
+        },{
+            "department":5,
+            "name":"임나영",
+            "address":"동작구 서달로12길"
+        },{
+            "department":5,
+            "name":"오주환",
+            "address":"노원구 공릉로"
+        },{
+            "department":5,
+            "name":"정수빈",
+            "address":"중랑구 동일로109길"
+        },{
+            "department":5,
+            "name":"조하선",
+            "address":"영등포구 디지털로56길"
         }
        
      

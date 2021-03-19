@@ -7,7 +7,7 @@ $.loadMap = function (dept) {
        students = students.filter((element) => {    // department가 id(dept)와 같은 students만 filtering해줌
         return element.department == dept;
       });
-      students.push(data.people[0])
+      students.push(data.people[0]);                //"비트캠프"마커는 항상 표시하도록 넣어줌
       console.log(students);
     }
      
